@@ -1,0 +1,70 @@
+{
+  "checked_at": "2026-03-19T10:32:30.951979-05:00",
+  "confirmed": 1,
+  "near_miss": 20,
+  "signals": [
+    {
+      "ticker": "VRT",
+      "composite": 81,
+      "probability": 95,
+      "zones": {
+        "entry": 134.45,
+        "tp1": 140.59,
+        "tp2": 144.69,
+        "sl": 133.77
+      }
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "PDD",
+      "composite": 96,
+      "layers_passed": 3
+    },
+    {
+      "ticker": "VIST",
+      "composite": 91,
+      "layers_passed": 3
+    },
+    {
+      "ticker": "TSM",
+      "composite": 90,
+      "layers_passed": 3
+    },
+    {
+      "ticker": "NVDA",
+      "composite": 85,
+      "layers_passed": 3
+    },
+    {
+      "ticker": "PBR",
+      "composite": 85,
+      "layers_passed": 3
+    },
+    {
+      "ticker": "EC",
+      "composite": 85,
+      "layers_passed": 3
+    },
+    {
+      "ticker": "0700.HK",
+      "composite": 81,
+      "layers_passed": 3
+    },
+    {
+      "ticker": "PAC",
+      "composite": 80,
+      "layers_passed": 3
+    },
+    {
+      "ticker": "1810.HK",
+      "composite": 77,
+      "layers_passed": 3
+    },
+    {
+      "ticker": "YMM",
+      "composite": 76,
+      "layers_passed": 3
+    }
+  ]
+}
