@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-03-20T11:03:26.461765-05:00",
+  "checked_at": "2026-03-20T13:00:24.253556-05:00",
   "confirmed": 0,
   "near_miss": 2,
   "signals": [],
   "watchlist": [
     {
       "ticker": "MU",
-      "composite": 80,
+      "composite": 85,
       "layers_passed": 3
     },
     {
